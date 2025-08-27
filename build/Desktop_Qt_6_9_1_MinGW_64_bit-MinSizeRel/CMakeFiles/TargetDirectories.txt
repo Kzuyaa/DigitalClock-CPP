@@ -1,0 +1,9 @@
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/DigitalClock.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/edit_cache.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/list_install_components.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/install.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/install/local.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/install/strip.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/DigitalClock_autogen_timestamp_deps.dir
+C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/DigitalClock_autogen.dir

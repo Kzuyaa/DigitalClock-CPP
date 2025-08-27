@@ -1,0 +1,21 @@
+# ninja log v7
+23	311	7778641474442423	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/cmake.verify_globs	fd5a607515eae2ed
+325	590	7778641477457363	DigitalClock_autogen/timestamp	8cbdd17c3558c67c
+325	590	7778641477457363	DigitalClock_autogen/mocs_compilation.cpp	8cbdd17c3558c67c
+325	590	7778641477457363	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/DigitalClock_autogen/timestamp	8cbdd17c3558c67c
+325	590	7778641477457363	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/DigitalClock_autogen/mocs_compilation.cpp	8cbdd17c3558c67c
+1783	7123	7778627067580081	CMakeFiles/DigitalClock.dir/main.cpp.obj	7fa6972497543e36
+1747	6796	7778627067214610	CMakeFiles/DigitalClock.dir/DigitalClock_autogen/mocs_compilation.cpp.obj	4991c59bdd4f0680
+592	4083	7778641480120810	CMakeFiles/DigitalClock.dir/digitalclock.cpp.obj	6580faa04e322297
+4083	4694	7778641515038825	DigitalClock.exe	f112fa469bd289b4
+283	1777	7778627049115161	build.ninja	3f65977083b534e8
+1678	2597	7778625409318157	DigitalClock_autogen/EWIEGA46WW/qrc_Themes.cpp	91dee5575165ee95
+1678	2597	7778625409318157	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/DigitalClock_autogen/EWIEGA46WW/qrc_Themes.cpp	91dee5575165ee95
+2658	26030	7778625410113530	CMakeFiles/DigitalClock.dir/DigitalClock_autogen/EWIEGA46WW/qrc_Themes.cpp.obj	552d546935aad476
+25	288	7778650447850906	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/CMakeFiles/cmake.verify_globs	fd5a607515eae2ed
+301	556	7778650450604889	DigitalClock_autogen/timestamp	8cbdd17c3558c67c
+301	556	7778650450604889	DigitalClock_autogen/mocs_compilation.cpp	8cbdd17c3558c67c
+301	556	7778650450604889	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/DigitalClock_autogen/timestamp	8cbdd17c3558c67c
+301	556	7778650450604889	C:/Qtproject/DigitalClock/build/Desktop_Qt_6_9_1_MinGW_64_bit-MinSizeRel/DigitalClock_autogen/mocs_compilation.cpp	8cbdd17c3558c67c
+558	4315	7778650453172545	CMakeFiles/DigitalClock.dir/digitalclock.cpp.obj	6580faa04e322297
+4315	5004	7778650490748565	DigitalClock.exe	f112fa469bd289b4

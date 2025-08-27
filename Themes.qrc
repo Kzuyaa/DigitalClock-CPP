@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Photo">
+        <file>photo/blue1.jpg</file>
+        <file>photo/pink1.jpg</file>
+        <file>photo/pink2.jpg</file>
+        <file>photo/pink3.gif</file>
+        <file>photo/pink4.jpg</file>
+        <file>photo/pink5.jpg</file>
+        <file>photo/purp2.jpg</file>
+        <file>photo/purp3.jpg</file>
+        <file>photo/Purp4.jpg</file>
+        <file>photo/purple1.jpg</file>
+        <file>photo/red1.jpg</file>
+    </qresource>
+</RCC>
